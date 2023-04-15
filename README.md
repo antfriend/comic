@@ -1,3 +1,3 @@
 # comic
 A comic
-![one](/one.svg)
+![one](One.svg)
